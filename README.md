@@ -1,4 +1,4 @@
-### Tribute Page - FreeCodeCamp
+# Tribute Page - FreeCodeCamp
 
 First project of responsive web design from Free Code Camp course.
 
