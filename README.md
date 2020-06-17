@@ -2,7 +2,9 @@
 
 First project of responsive web design from Free Code Camp course.
 
-## Technologies used
+[CodePen](https://codepen.io/gisouza-p/full/KKVNegO)
 
-- HTML5;
+## Technologies
+
+- HTML5
 - CSS3
